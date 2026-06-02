@@ -10,7 +10,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_hamza6)
   [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmeerHamzaDev12)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)]
-  (https://ameer-hamza-dev12.vercel.app/)
+(https://ameer-hamza-dev12.vercel.app/)
   
   <img src="https://komarev.com/ghpvc/?username=AmeerHamzaDev12&style=flat-square&color=6366F1" alt="Profile Views" />
 </div>
